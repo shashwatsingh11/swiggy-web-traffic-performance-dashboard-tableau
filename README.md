@@ -1,5 +1,3 @@
-# Swiggy Web Traffic & Conversion Analysis
-
 ## Project Background
 
 Swiggy, one of India’s largest online food delivery platforms, operates in a highly competitive digital environment where user experience and conversion rates are critical to revenue growth. Despite strong web and app traffic, the platform faces relatively low conversion rates, indicating inefficiencies in user engagement and marketing effectiveness.
